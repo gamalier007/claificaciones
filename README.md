@@ -1,4 +1,4 @@
-# claificaciones
+Calificaciones
 
 Este programa registra las calificaciones de varios estudiantes por el usuario y calcula el promedio de estas mostradas en forma d euna tabla.
 
