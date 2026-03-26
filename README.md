@@ -15,4 +15,4 @@ datos a mostrar
 listado en forma de tabla de los estudiantes con las calificaciones y promedio
 
 
-
+![image alt](https://github.com/gamalier007/claificaciones/blob/8c1ca01e9818b255d1b72fee07608046c10f9185/captura%20calificaciones.png)
