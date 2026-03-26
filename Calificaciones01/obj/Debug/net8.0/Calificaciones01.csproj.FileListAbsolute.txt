@@ -1,0 +1,14 @@
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\bin\Debug\net8.0\Calificaciones01.exe
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\bin\Debug\net8.0\Calificaciones01.deps.json
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\bin\Debug\net8.0\Calificaciones01.runtimeconfig.json
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\bin\Debug\net8.0\Calificaciones01.dll
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\bin\Debug\net8.0\Calificaciones01.pdb
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\obj\Debug\net8.0\Calificaciones01.GeneratedMSBuildEditorConfig.editorconfig
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\obj\Debug\net8.0\Calificaciones01.AssemblyInfoInputs.cache
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\obj\Debug\net8.0\Calificaciones01.AssemblyInfo.cs
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\obj\Debug\net8.0\Calificaciones01.csproj.CoreCompileInputs.cache
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\obj\Debug\net8.0\Calificaciones01.dll
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\obj\Debug\net8.0\refint\Calificaciones01.dll
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\obj\Debug\net8.0\Calificaciones01.pdb
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\obj\Debug\net8.0\Calificaciones01.genruntimeconfig.cache
+C:\desarrollo de aplicaciones\2025-2026\listas\Calificaciones01\obj\Debug\net8.0\ref\Calificaciones01.dll
